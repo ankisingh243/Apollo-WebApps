@@ -1,0 +1,7 @@
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\Apollo-WebApps.exe
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\Apollo-WebApps.dll
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\Apollo-WebApps.deps.json
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\Apollo-WebApps.runtimeconfig.json
+C:\git-repo\Apollo-WebApps\obj\Release\net7.0\PubTmp\Out\Apollo-WebApps.pdb
