@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5htc/3ss9tCKqgQG6GhnQKYRZvHu+U3uknUUGjMsU/e0GYk6pGQltphAgsDA+E4rxs9PqwLFN3wkYkRNNmXew==",
+  "dgSpecHash": "YBwi8+aALV/3OOn0YIQNX/HjHhG5EffiHyRRXxaBZGF4iGGhzyfPQMaSg84E5z4eVKX0gP+7ZLR6ll7ORsLVqQ==",
   "success": true,
-  "projectFilePath": "C:\\git-repo\\Apollo-WebApps\\Apollo-WebApps.csproj",
+  "projectFilePath": "C:\\Apollo-WebApps\\Apollo-WebApps.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

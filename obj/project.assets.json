@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-repo\\Apollo-WebApps\\Apollo-WebApps.csproj",
+      "projectUniqueName": "C:\\Apollo-WebApps\\Apollo-WebApps.csproj",
       "projectName": "Apollo-WebApps",
-      "projectPath": "C:\\git-repo\\Apollo-WebApps\\Apollo-WebApps.csproj",
+      "projectPath": "C:\\Apollo-WebApps\\Apollo-WebApps.csproj",
       "packagesPath": "C:\\Users\\ankisingh.FAREAST\\.nuget\\packages\\",
-      "outputPath": "C:\\git-repo\\Apollo-WebApps\\obj\\",
+      "outputPath": "C:\\Apollo-WebApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
