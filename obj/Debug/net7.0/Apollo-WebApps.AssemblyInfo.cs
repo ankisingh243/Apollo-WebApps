@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apollo-WebApps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+534c139121f3a7a01d6b12c62e622bca3b7c1c80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+890feb90c2212cf41a7f1ce4b866a11ab38b09da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apollo-WebApps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apollo-WebApps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
